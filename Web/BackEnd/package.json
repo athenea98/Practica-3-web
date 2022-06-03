@@ -1,0 +1,24 @@
+{
+  "name": "node-js-jwt-auth",
+  "version": "1.0.0",
+  "description": "BackEnd",
+  "main": "server.js",
+  "scripts": {
+    "test": "Error"
+  },
+  "keywords": [
+    "node.js",
+    "jwt",
+    "authentication",
+    "express",
+    "mysql"
+  ],
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mysql2": "^2.1.0",
+    "sequelize": "^5.21.3"
+  }
+}
